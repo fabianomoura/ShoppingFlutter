@@ -130,7 +130,7 @@ class LoginPage extends StatelessWidget {
                           ),
                           onPressed: () {},
                         ),
-                      )
+                      ),
                     ],
                   ),
                 ),
